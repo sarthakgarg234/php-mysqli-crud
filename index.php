@@ -166,7 +166,7 @@ table.table td i {
             <div class="table-title">
                 <div class="row">
                     <div class="col-sm-5">
-                        <h2>User <b>Management</b></h2>
+                        <h2>User Management List</h2>
                     </div>
                        <div class="col-sm-7" align="right">
                         <a href="insert.php" class="btn btn-secondary"><i class="material-icons">&#xE147;</i> <span>Add New User</span></a>
